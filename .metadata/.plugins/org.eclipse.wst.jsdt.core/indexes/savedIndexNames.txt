@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\notte\OneDrive\Área de Trabalho\bin\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3409359202.index
+3909827718.index
+2258549717.index
+3085123400.index
+2915887712.index
+2352571141.index
